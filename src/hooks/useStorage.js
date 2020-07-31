@@ -20,7 +20,6 @@ const useStorage = (file) => {
             const url = await storageRef.getDownloadURL();
             const createdAt = timeStamp();
             collectionRef.add({ url, createdAt });
-            // collectionRef.add({ url: url }); /\ Shorter version
             setUrl(url);
         });
     }, [file]);
