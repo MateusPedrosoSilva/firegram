@@ -17,8 +17,10 @@ var firebaseConfig = {
 
   const projectStorage = firebase.storage();
   const projectFirestore = firebase.firestore();
+  const timeStamp = firebase.firestore.FieldValue.timeStamp;
 
   export {
       projectStorage,
-      projectFirestore
+      projectFirestore,
+      timeStamp
   }
