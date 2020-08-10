@@ -1,68 +1,52 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Firegram
+Firegram is a photo gallery. Where the user can upload images. The application is in real time, it was built with ReactJS and Firebase.
 
-## Available Scripts
+## Motivation
+The purpose of this repository is to review some `ReactJS` concepts and use `Firebase` as a backend for the application. And I used `Framer-motion` for the website's animations.
 
-In the project directory, you can run:
+## Screenshots
+Comming soon.
+<!-- Include logo/demo screenshot etc. -->
 
-### `npm start`
+## Tech/framework used
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<b>Built with</b>
+- [ReactJS](https://reactjs.org/)
+- [Framer-motion](https://www.framer.com/motion/)
+- [Firebase](https://firebase.google.com/)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Features
+What makes your project stand out?
 
-### `npm test`
+## Installation
+To run this project, install it locally using git and npm:
+```
+$ git clone https://github.com/MateusPedrosoSilva/firegram.git
+$ cd firegram
+$ npm install
+$ npm start
+```
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## How to use?
+If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
 
-### `npm run build`
+## Contribute
+Comming soon
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Credits
+Project based on a Youtube video by `Traversy Media`. [Build a Photo Gallery With React & Firebase](https://youtu.be/vUe91uOx7R0)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<!-- Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project.  -->
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## License
+Distributed under the MIT license. See `LICENSE` for more information.
 
-### `npm run eject`
+MIT © [Mateus Pedroso](https://github.com/MateusPedrosoSilva)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Contact
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Rocketseat - [Github](https://github.com/MateusPedrosoSilva) - [LinkedIn](https://www.linkedin.com/in/mateuspedroso/) - **mateuspsilva.dev@gmail.com**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<!-- References for the README: -->
+<!-- https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3 -->
+<!-- https://github.com/Rocketseat/react-native-template-rocketseat-basic/blob/master/README.md -->
